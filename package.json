@@ -1,0 +1,14 @@
+{
+  "name": "energo-alternativa.ru",
+  "packageManager": "yarn@3.6.0",
+  "scripts": {
+    "start": "next"
+  },
+  "dependencies": {
+    "next": "^13.4.15",
+    "nextra": "^2.11.0",
+    "nextra-theme-docs": "^2.11.0",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  }
+}
